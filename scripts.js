@@ -1,3 +1,35 @@
+//4th part
+
+$('div').css('background', 'purple');
+$('.fir.second').toggleClass('hidden');
+$('p').html(<strong>hey</strong>);
+
+$('p').append('another');
+$('h1').remove();
+
+$('button').click(() =>{
+    // something happening
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//from1st part to 3rd
 console.log("this is javascript");
 
 let colors = ["orange", "blue", "green", "purple"];
